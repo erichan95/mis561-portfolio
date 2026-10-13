@@ -11,6 +11,6 @@ Introduction to Power BI, Completed: September 29, 2026. https://public.tableau.
 
 Introduction to DAX in Power BI, Completed: October 5, 2026, https://public.tableau.com/app/profile/hanyu.chen8758/viz/PowerBITrainingCertifications_17906575532080/PowerBIStory . Tableau Story: In Flex 4, I calculated net contribution for each customer by subtracting the service cost from the total profit and showed it in my Account Portfolio Dashboard. In Power BI, I would use a measure to add up these amounts because the total needs to change when I filter by tier or segment. This would help Marcus compare different customer groups himself without asking me to make a new chart each time.
 
-Advancing in Power BI for Data Visualization, Completed: October 12, 2026, 
+Data Visualization in Power BI, Completed: October 12, 2026, 
 https://public.tableau.com/views/PowerBITrainingCertifications_17906575532080/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 In this course, I learned how to improve data visualizations in Power BI. For example, I used conditional formatting to highlight products with low sales. This can help people quickly identify products that need attention. I also learned how to create KPI visuals to compare actual results with business targets. These skills can help managers understand business performance and make better decisions.
