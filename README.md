@@ -16,5 +16,5 @@ https://public.tableau.com/views/PowerBITrainingCertifications_17906575532080/Po
 In this course, I learned how to improve data visualizations in Power BI. For example, I used conditional formatting to highlight products with low sales. This can help people quickly identify products that need attention. I also learned how to create KPI visuals to compare actual results with business targets. These skills can help managers understand business performance and make better decisions.
 
 Card Portfolio Review – Contactless Readiness，Completed: October 19, 2026, Business Question: Which non-contactless cards should Bear Down Bank replace early, and how much would it cost? 
-Tableau Dashboard: https://public.tableau.com/views/CardPortfolioReviewContactlessReadiness_17924334375560/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+Tableau Dashboard:https://public.tableau.com/views/CardPortfolioReviewContactlessReadiness_17924334375560/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 If I did this again, I would make the chart labels clearer so the bank manager could understand the recommendation more easily.
