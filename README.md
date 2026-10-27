@@ -18,3 +18,8 @@ In this course, I learned how to improve data visualizations in Power BI. For ex
 Card Portfolio Review – Contactless Readiness，Completed: October 19, 2026, Business Question: Which non-contactless cards should Bear Down Bank replace early, and how much would it cost? 
 Tableau Dashboard:https://public.tableau.com/views/CardPortfolioReviewContactlessReadiness_17924334375560/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 If I did this again, I would make the chart labels clearer so the bank manager could understand the recommendation more easily.
+
+
+Wildcat Rewards Credit Card Analysis,Completed: October 26, 2026, Business Question: Which customer group should Bear Down Bank target first for the Wildcat Rewards credit card offer?
+Tableau Dashboard:https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17930816464640/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+One Thing I Would Change: If I did this again, I would explore more customer characteristics to better understand which group to target.
