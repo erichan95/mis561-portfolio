@@ -23,3 +23,15 @@ If I did this again, I would make the chart labels clearer so the bank manager c
 Wildcat Rewards Credit Card Analysis,Completed: October 26, 2026, Business Question: Which customer group should Bear Down Bank target first for the Wildcat Rewards credit card offer?
 Tableau Dashboard:https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17930816464640/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 One Thing I Would Change: If I did this again, I would explore more customer characteristics to better understand which group to target.
+
+
+**Nov 2, 2026 · Data Storytelling with Adobe Express**
+
+Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: prioritize Gen Z customers for the Wildcat Rewards offer because they have the largest eligible customer pool (128) but the lowest card penetration rate (38.64%).
+
+[Work sample (PDF)](https://github.com/erichan95/mis561-portfolio/blob/main/adobe/chen-data-storytelling.pdf) ·
+[Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:US:d3a2b317-1c47-59cd-b769-6ceb2d93697a?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+
+Design choice: I highlighted Gen Z in orange to draw attention to the target group. I used a bar chart to compare eligible customers and a second chart to show card penetration rates across generations. These visuals support the recommendation to prioritize Gen Z.
+
+Training completed: Nov 1, 2026
