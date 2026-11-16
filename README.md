@@ -35,3 +35,16 @@ Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: prioritize Ge
 Design choice: I highlighted Gen Z in orange to draw attention to the target group. I used a bar chart to compare eligible customers and a second chart to show card penetration rates across generations. These visuals support the recommendation to prioritize Gen Z.
 
 Training completed: Nov 1, 2026
+
+
+**November 16, 2026 · Product Pitch with Generative AI in Adobe Express**
+
+Pitch to Jordan Ellis, VP of Card Growth at Bear Down Bank: approve a six-week first phase to analyze credit card growth opportunities and design a potential Wildcat Rewards pilot.
+
+[Pitch deck (PDF)](https://github.com/erichan95/mis561-portfolio/blob/main/adobe/chen-product-pitch.pdf) · [Adobe Express](PASTE_YOUR_ADOBE_EXPRESS_LINK_HERE)
+
+Toughest objection: "Does low card penetration mean Gen Z customers actually want a credit card?" Slide 4 addresses this: low penetration suggests an opportunity, not guaranteed demand. Further analysis of customer needs and fair-lending compliance is required before launching a pilot.
+
+AI use: ChatGPT assisted with presentation structure and English wording. AI-generated presentation designs were substantially revised manually. Data analysis, interpretation, and final recommendations were completed independently. No confidential customer-level data was shared with AI.
+
+Training completed: November 16, 2026.
