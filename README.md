@@ -41,10 +41,11 @@ Training completed: Nov 1, 2026
 
 Pitch to Jordan Ellis, VP of Card Growth at Bear Down Bank: approve a six-week first phase to analyze credit card growth opportunities and design a potential Wildcat Rewards pilot.
 
-[Pitch deck (PDF)](https://github.com/erichan95/mis561-portfolio/blob/main/adobe/chen-product-pitch.pdf) · [Adobe Express](PASTE_YOUR_ADOBE_EXPRESS_LINK_HERE)
+[Pitch deck (PDF)](https://github.com/erichan95/mis561-portfolio/blob/main/adobe/chen-product-pitch.pdf) · [Adobe Express]([PASTE_YOUR_ADOBE_EXPRESS_LINK_HERE](https://express.adobe.com/publishedV2/urn:aaid:sc:US:8dbd2dc6-ffcd-596b-a138-2b7c86f5b2d2?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
 
-Toughest objection: "Does low card penetration mean Gen Z customers actually want a credit card?" Slide 4 addresses this: low penetration suggests an opportunity, not guaranteed demand. Further analysis of customer needs and fair-lending compliance is required before launching a pilot.
+Toughest objection: "Does low penetration really mean growth opportunity?"
+Answer: Not necessarily. Low penetration suggests potential opportunity, but does not guarantee demand. Many Gen Z customers are entering the workforce, which may create long-term growth potential. We recommend further analysis of customer needs and compliance before launching a pilot. Slide 4 addresses this concern.
 
-AI use: ChatGPT assisted with presentation structure and English wording. AI-generated presentation designs were substantially revised manually. Data analysis, interpretation, and final recommendations were completed independently. No confidential customer-level data was shared with AI.
+AI use: I used ChatGPT for guidance and help organizing written content. The AI-generated presentation was not satisfactory, so I manually revised most of the slides, including the text, charts, and layout. Data analysis and interpretation were based on Tableau results. No confidential customer-level data was shared with AI.
 
 Training completed: November 16, 2026.
